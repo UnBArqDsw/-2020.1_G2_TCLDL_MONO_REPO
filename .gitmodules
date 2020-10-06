@@ -2,3 +2,7 @@
 	path = apps/2020.1_G2_TCLDL_Paper_Service
 	url = https://github.com/UnBArqDsw/2020.1_G2_TCLDL_Paper_Service
 	branch = master
+[submodule "apps/2020.1_G2_TCLDL_Mail_Service"]
+	path = apps/2020.1_G2_TCLDL_Mail_Service
+	url = https://github.com/UnBArqDsw/2020.1_G2_TCLDL_Mail_Service
+	branch = master
